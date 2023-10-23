@@ -1,4 +1,0 @@
-Based off of vanilla tweaks
-
-Yoinked optifine folder from 5awii pack
-Stole 5awiis swords and lowfire (check out 5awii's info.txt file for moret)
